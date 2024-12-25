@@ -1,0 +1,6 @@
+- Hi, I’m @methylmethane
+- I’m interested in Programming, electronics
+- I’m currently learning C
+- I’m looking to collaborate on everything as long as it's not written on java
+- How to reach me ...
+- Fun fact: AAAAAAAAA
